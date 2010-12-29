@@ -1,0 +1,3 @@
+[submodule "lib/node-fs"]
+	path = lib/node-fs
+	url = git@github.com:bpedro/node-fs.git
